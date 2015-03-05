@@ -221,23 +221,14 @@ markdown code:
 ```
 
    
-###7.3 Footnotes
+###7.3 Emoji icons (github)
+[emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/)  
 
-Footnotes work mostly like reference-style links. A footnote is made of two things: 
-1.a marker in the text that will become a superscript number; 
-2.a footnote definition that will be placed in a list of footnotes at the end of the document. 
-***
-__A footnote looks like this:__
+I love Emoji  :sparkles: :camel: :boom:
 
-That's some text with a footnote.[^1]  
-[^1]: And that's the footnote: ashucn@gmail.com.  
-***
-
-  
 ```
 markdown code:
-		That's some text with a footnote.[^1]  
-		[^1]: And that's the footnote: ashucn@gmail.com.
+I love Emoji  :sparkles: :camel: :boom:
 ```
 
 ###7.4 Strikethrough
@@ -297,8 +288,15 @@ Left         | Center        | Right
 Left         | Center        | Right
 ```
 
-
+###7.6 Check Box (github)
+- [x] This is a complete item
+- [ ] This is an incomplete item
   
+```
+markdown code:
+- [x] This is a complete item
+- [ ] This is an incomplete item
+```
   
   
 # Resources

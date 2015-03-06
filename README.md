@@ -12,7 +12,7 @@ From [Github - Mastering Markdown](https://guides.github.com/features/mastering-
 7. [extras](#7extras)
 	1. [emphasis](#71-emphasis)
 	2. [emoji icons (github)](#72-emoji-icons-github)
-	3. [strickthrough](#73-strickthrough)
+	3. [strikethrough](#73-strikethrough)
 	4. [tables](#74-tables)
 	5. [check box](#75-check-box-github) 
 8. [resources](#resources)  
@@ -294,5 +294,8 @@ markdown code:
 - [Github: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Mahua: Online markdown editor ](http://mahua.jser.me/)
 - [emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/)    
-***
-ashucn@gmail.com
+
+--- 
+by ashucn@gmail.com 3/5/2015  
+  
+  

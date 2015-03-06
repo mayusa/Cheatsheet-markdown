@@ -3,7 +3,7 @@ From [Github - Mastering Markdown](https://guides.github.com/features/mastering-
 # Markdown Examples
 
 ##1.Text
----
+
 'It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)  
 
 ```
@@ -12,7 +12,7 @@ markdown code:
 ```
 
 ##2.Lists 
----
+
 *Sometimes you want numbered lists:*
 
 1. One
@@ -54,7 +54,7 @@ markdown code:
 ```
 
 ##3.Images 
----
+
 *If you want to embed images, this is how you do it:*
 
 ![Image of Yaktocat](https://kev.inburke.com/wp-content/uploads/2014/04/hackedocat-300x300.png)  
@@ -64,7 +64,7 @@ markdown code:
 ![Image of Yaktocat](https://kev.inburke.com/wp-content/uploads/2014/04/hackedocat-300x300.png)
 ```
 ##4.Headers & Quotes 
----
+
 ###- Headers:
 
 *atx-style:*
@@ -100,7 +100,7 @@ markdown code:
 > - Captain Janeway
 ```
 ##5.Code 
----
+
 There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in **backticks**: `var example = true`.   
 
 ```
@@ -146,7 +146,7 @@ if (isAwesome){
 ```
 
 ##6.An email <example@example.com> link.
----
+
 - inline link <http://chenluois.com>,   
 - another inline link [Smaller](http://25.io/smaller/),   
 - one more inline link with title [Resize](http://resizesafari.com "a Safari extension").
@@ -165,7 +165,7 @@ Titles ( or called tool tips ) in the links are optional.
   
   
 ##7.Extras
----
+
 ###7.1 Emphasis
 *This text will be italic*  
 _This will also be italic_
@@ -297,7 +297,7 @@ markdown code:
 - [x] This is a complete item
 - [ ] This is an incomplete item
 ```
-  
+
   
 # Resources
 

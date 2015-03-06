@@ -1,21 +1,23 @@
 
 From [Github - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-# Markdown Examples
+# Markdown Examples  
 
+###Contents
 1. [text](#1text)
 2. [lists](#2lists)
 3. [images](#3images)
 4. [headers & quotes](#4headers--quotes)
 5. [code](#5code)
-6. An email example@example.com link.
-7. extras
-	1. emphasis
-	2. emoji icons
-	3. strickthrough
-	4. tables
-	5. check box  
-8. resources  
-***
+6. [An email example@example.com link.](#6an-email-exampleexamplecom-link)
+7. [extras](#7extras)
+	1. [emphasis](#71-emphasis)
+	2. [emoji icons (github)](#72-emoji-icons-github)
+	3. [strickthrough](#73-strickthrough)
+	4. [tables](#74-tables)
+	5. [check box](#75-check-box-github) 
+8. [resources](#resources)  
+
+---
  
 	
 
@@ -291,3 +293,6 @@ markdown code:
 - [segmentfault.com: 78 款 Markdown 工具](http://segmentfault.com/a/1190000000506986)
 - [Github: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Mahua: Online markdown editor ](http://mahua.jser.me/)
+- [emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/)    
+***
+ashucn@gmail.com

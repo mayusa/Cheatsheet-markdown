@@ -293,9 +293,11 @@ markdown code:
 - [segmentfault.com: 78 款 Markdown 工具](http://segmentfault.com/a/1190000000506986)
 - [Github: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Mahua: Online markdown editor ](http://mahua.jser.me/)
-- [emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/)    
+- [emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/)   
+- [创始人John Gruber的Markdown语法说明](http://daringfireball.net/projects/markdown/syntax)
+- [Markdown中文版语法说明](http://wowubuntu.com/markdown/#list)
 
 --- 
 by ashucn@gmail.com 3/5/2015  
   
-  
+

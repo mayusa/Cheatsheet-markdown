@@ -2,11 +2,11 @@
 From [Github - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 # Markdown Examples
 
-1. [text](#1.Text)
-2. lists
-3. images
-4. headers & quotes
-5. code
+1. [text](#1text)
+2. [lists](#2lists)
+3. [images](#3images)
+4. [headers & quotes](#4headers--quotes)
+5. [code](#5code)
 6. An email example@example.com link.
 7. extras
 	1. emphasis

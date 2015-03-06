@@ -2,6 +2,24 @@
 From [Github - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 # Markdown Examples
 
+1. [text](#1.Text)
+2. lists
+3. images
+4. headers & quotes
+5. code
+6. An email example@example.com link.
+7. extras
+	1. emphasis
+	2. emoji icons
+	3. strickthrough
+	4. tables
+	5. check box  
+8. resources  
+***
+ 
+	
+
+
 ##1.Text
 
 'It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)  
@@ -186,42 +204,11 @@ __This will also be bold__
 
 *You **can** combine them*
 ```
-  
-###7.2 Lists
-  
-#### Unordered
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b  
-  
-```
-markdown code:
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
 
-```
-####Ordered
-1. Item 1
-2. Item 2
-3. Item 3
-   * Item 3a
-   * Item 3b
-  
-```
-markdown code:
-1. Item 1
-2. Item 2
-3. Item 3
-   * Item 3a
-   * Item 3b
 
-```
 
    
-###7.3 Emoji icons (github)
+###7.2 Emoji icons (github)
 [emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/)  
 
 I love Emoji  :sparkles: :camel: :boom:
@@ -231,7 +218,7 @@ markdown code:
 I love Emoji  :sparkles: :camel: :boom:
 ```
 
-###7.4 Strikethrough
+###7.3 Strikethrough
 
 _Wrap with 2 tilde characters:_
 
@@ -241,7 +228,7 @@ _Wrap with 2 tilde characters:_
 markdown code:
 ~~Strikethrough~~
 ```
-###7.5 Tables
+###7.4 Tables
 
 A simple table looks like this:
 
@@ -288,7 +275,7 @@ Left         | Center        | Right
 Left         | Center        | Right
 ```
 
-###7.6 Check Box (github)
+###7.5 Check Box (github)
 - [x] This is a complete item
 - [ ] This is an incomplete item
   

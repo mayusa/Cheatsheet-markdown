@@ -289,7 +289,7 @@ markdown code:
 
   
 # Resources
-
+- [马克飞象在线编辑器](http://www.maxiang.info/)
 - [segmentfault.com: 78 款 Markdown 工具](http://segmentfault.com/a/1190000000506986)
 - [markdown plugin for sublime text 2/3](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Mahua: Online markdown editor ](http://mahua.jser.me/)
